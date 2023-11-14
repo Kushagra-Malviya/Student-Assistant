@@ -13,8 +13,6 @@ The **Student Assistant** is a Java-based software project aimed at helping coll
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
@@ -66,5 +64,3 @@ The **Student Assistant** is a Java-based software project aimed at helping coll
 - [GitHub](https://github.com/)
 - [Java Documentation](https://docs.oracle.com/en/java/)
 - [MySQL](https://www.mysql.com/)
-```
-
