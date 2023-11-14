@@ -60,14 +60,6 @@ The **Student Assistant** is a Java-based software project aimed at helping coll
 
 2. Navigate through the login page, and use the features as needed.
 
-## Contributing
-
-Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - [Open Source Initiative](https://opensource.org/)
