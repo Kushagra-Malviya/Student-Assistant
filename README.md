@@ -4,7 +4,7 @@
 
 ## Description
 
-The **Student Assistant** is a Java-based software project aimed at helping college students manage their academic and personal tasks efficiently. The software provides features such as time table management, event planning, note-taking, and money tracking.
+The **Student Assistant** is a Java-based software project aimed at helping college students manage their academic and personal tasks efficiently. The software provides features such as time table management, event planning, note-taking, and money tracking. We have made this project for our Advanced Programming Practices course in 3rd semester.
 
 ## Table of Contents
 
